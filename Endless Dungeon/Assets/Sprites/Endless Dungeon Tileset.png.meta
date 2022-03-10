@@ -1,0 +1,1880 @@
+fileFormatVersion: 2
+guid: db0e841ef324a5647ab710a7a2942619
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6524343521767496692
+    second: Endless Dungeon Tileset_0
+  - first:
+      213: -6074734762613565742
+    second: Endless Dungeon Tileset_1
+  - first:
+      213: -6847211452577285266
+    second: Endless Dungeon Tileset_2
+  - first:
+      213: 3239637863897255032
+    second: Endless Dungeon Tileset_3
+  - first:
+      213: -214757128321399970
+    second: Endless Dungeon Tileset_4
+  - first:
+      213: -33612299435891158
+    second: Endless Dungeon Tileset_5
+  - first:
+      213: -6773603582364894370
+    second: Endless Dungeon Tileset_6
+  - first:
+      213: -5909959341948517825
+    second: Endless Dungeon Tileset_7
+  - first:
+      213: 2392146438257726809
+    second: Endless Dungeon Tileset_8
+  - first:
+      213: 746662444190035837
+    second: Endless Dungeon Tileset_9
+  - first:
+      213: 5321211177847329942
+    second: Endless Dungeon Tileset_10
+  - first:
+      213: -8684098048498135042
+    second: Endless Dungeon Tileset_11
+  - first:
+      213: -8841510944056210456
+    second: Endless Dungeon Tileset_12
+  - first:
+      213: -8232174987455254268
+    second: Endless Dungeon Tileset_13
+  - first:
+      213: 4465971613103588383
+    second: Endless Dungeon Tileset_14
+  - first:
+      213: 2924405025492780520
+    second: Endless Dungeon Tileset_15
+  - first:
+      213: 5152313414076497449
+    second: Endless Dungeon Tileset_16
+  - first:
+      213: 7086652458857425850
+    second: Endless Dungeon Tileset_17
+  - first:
+      213: -3149509242795171416
+    second: Endless Dungeon Tileset_18
+  - first:
+      213: -5281599506078574644
+    second: Endless Dungeon Tileset_19
+  - first:
+      213: -3025589094619801807
+    second: Endless Dungeon Tileset_20
+  - first:
+      213: -912323426127375396
+    second: Endless Dungeon Tileset_21
+  - first:
+      213: -7919940884364807231
+    second: Endless Dungeon Tileset_22
+  - first:
+      213: 6535943522134685381
+    second: Endless Dungeon Tileset_23
+  - first:
+      213: 9059899274502291121
+    second: Endless Dungeon Tileset_24
+  - first:
+      213: -4500199930694280848
+    second: Endless Dungeon Tileset_25
+  - first:
+      213: 5592171579001721858
+    second: Endless Dungeon Tileset_26
+  - first:
+      213: 1593803667084164325
+    second: Endless Dungeon Tileset_27
+  - first:
+      213: -8702854468103638528
+    second: Endless Dungeon Tileset_28
+  - first:
+      213: 3106807735268977243
+    second: Endless Dungeon Tileset_29
+  - first:
+      213: -868489752499393085
+    second: Endless Dungeon Tileset_30
+  - first:
+      213: -8607777831847031566
+    second: Endless Dungeon Tileset_31
+  - first:
+      213: 7250364890419986382
+    second: Endless Dungeon Tileset_32
+  - first:
+      213: -8322453086132253985
+    second: Endless Dungeon Tileset_33
+  - first:
+      213: 4448529310732427510
+    second: Endless Dungeon Tileset_34
+  - first:
+      213: 6405780841938799593
+    second: Endless Dungeon Tileset_35
+  - first:
+      213: 8061539797848235822
+    second: Endless Dungeon Tileset_36
+  - first:
+      213: -8418579390789207047
+    second: Endless Dungeon Tileset_37
+  - first:
+      213: -7343438286098947814
+    second: Endless Dungeon Tileset_38
+  - first:
+      213: 1197983857405904579
+    second: Endless Dungeon Tileset_39
+  - first:
+      213: 3932738164211360124
+    second: Endless Dungeon Tileset_40
+  - first:
+      213: -936727314716667964
+    second: Endless Dungeon Tileset_41
+  - first:
+      213: 2921409531689269547
+    second: Endless Dungeon Tileset_42
+  - first:
+      213: 6454707390011523571
+    second: Endless Dungeon Tileset_43
+  - first:
+      213: -6454990171044224078
+    second: Endless Dungeon Tileset_44
+  - first:
+      213: 8619710647235335243
+    second: Endless Dungeon Tileset_45
+  - first:
+      213: 4931509947773206399
+    second: Endless Dungeon Tileset_46
+  - first:
+      213: -8430542907856882778
+    second: Endless Dungeon Tileset_47
+  - first:
+      213: -2026189079482846170
+    second: Endless Dungeon Tileset_48
+  - first:
+      213: 8721595089488079737
+    second: Endless Dungeon Tileset_49
+  - first:
+      213: -687834068098063800
+    second: Endless Dungeon Tileset_50
+  - first:
+      213: 7795670906828364851
+    second: Endless Dungeon Tileset_51
+  - first:
+      213: 2707621954272359424
+    second: Endless Dungeon Tileset_52
+  - first:
+      213: 303550651981666478
+    second: Endless Dungeon Tileset_53
+  - first:
+      213: 9133096771659247944
+    second: Endless Dungeon Tileset_54
+  - first:
+      213: 6120565611968937269
+    second: Endless Dungeon Tileset_55
+  - first:
+      213: 2073998888516978111
+    second: Endless Dungeon Tileset_56
+  - first:
+      213: -397411341612531934
+    second: Endless Dungeon Tileset_57
+  - first:
+      213: 5401579249664575386
+    second: Endless Dungeon Tileset_58
+  - first:
+      213: -6096475337505533169
+    second: Endless Dungeon Tileset_59
+  - first:
+      213: 7159948719689645126
+    second: Endless Dungeon Tileset_60
+  - first:
+      213: 4591580892176600878
+    second: Endless Dungeon Tileset_61
+  - first:
+      213: -3258810580533875316
+    second: Endless Dungeon Tileset_62
+  - first:
+      213: 6827702973239975527
+    second: Endless Dungeon Tileset_63
+  - first:
+      213: 3824937510993976157
+    second: Endless Dungeon Tileset_64
+  - first:
+      213: -4462151124896312310
+    second: Endless Dungeon Tileset_65
+  - first:
+      213: 4337836749037352473
+    second: Endless Dungeon Tileset_66
+  - first:
+      213: 1438201325651771590
+    second: Endless Dungeon Tileset_67
+  - first:
+      213: -5441752326950493412
+    second: Endless Dungeon Tileset_68
+  - first:
+      213: -4136601543262573863
+    second: Endless Dungeon Tileset_69
+  - first:
+      213: -1669947975337217896
+    second: Endless Dungeon Tileset_70
+  - first:
+      213: -8452231914610848586
+    second: Endless Dungeon Tileset_71
+  - first:
+      213: -4332922123871454299
+    second: Endless Dungeon Tileset_72
+  - first:
+      213: -4553306253494865539
+    second: Endless Dungeon Tileset_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb92979ddf1b8a50800000000000000
+      internalID: 6524343521767496692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 235
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d693b13be432bba0800000000000000
+      internalID: -6074734762613565742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 235
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bf4234671d9f0a0800000000000000
+      internalID: -6847211452577285266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 235
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c408e097185fc20800000000000000
+      internalID: 3239637863897255032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 235
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e538b659787050df0800000000000000
+      internalID: -214757128321399970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 235
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a262a00bac5988ff0800000000000000
+      internalID: -33612299435891158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 214
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bb3df0e635ff1a0800000000000000
+      internalID: -6773603582364894370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 214
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3248227a4b9bfda0800000000000000
+      internalID: -5909959341948517825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 214
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955511fe28c923120800000000000000
+      internalID: 2392146438257726809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 214
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f6219798dac5a00800000000000000
+      internalID: 746662444190035837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 214
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6949d6e8f5db8d940800000000000000
+      internalID: 5321211177847329942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 214
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff0b90d5d2eb7780800000000000000
+      internalID: -8684098048498135042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb0dc504a4ac4580800000000000000
+      internalID: -8841510944056210456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 193
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401bfdff67071cd80800000000000000
+      internalID: -8232174987455254268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 193
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14840835815afd30800000000000000
+      internalID: 4465971613103588383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 193
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e54dd360e2959820800000000000000
+      internalID: 2924405025492780520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 193
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e728180c1b08740800000000000000
+      internalID: 5152313414076497449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 193
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb68d85dd8d85260800000000000000
+      internalID: 7086652458857425850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 194
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1626ec702ba44d0800000000000000
+      internalID: -3149509242795171416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 193
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7de4a7b3df3b6b0800000000000000
+      internalID: -5281599506078574644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13714eaafb2f206d0800000000000000
+      internalID: -3025589094619801807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd319697da6c653f0800000000000000
+      internalID: -912323426127375396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3b7513ab7b61290800000000000000
+      internalID: -7919940884364807231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c67ad4210654ba50800000000000000
+      internalID: 6535943522134685381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be3785836a3bbd70800000000000000
+      internalID: 9059899274502291121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079dab091041c81c0800000000000000
+      internalID: -4500199930694280848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204de692c626b9d40800000000000000
+      internalID: 5592171579001721858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec344aadf35e1610800000000000000
+      internalID: 1593803667084164325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002f2c098ff393780800000000000000
+      internalID: -8702854468103638528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aa426bc299d1b20800000000000000
+      internalID: 3106807735268977243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 172
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cde43beb2182f3f0800000000000000
+      internalID: -868489752499393085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc864bfaa70b8880800000000000000
+      internalID: -8607777831847031566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 151
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf727924787e9460800000000000000
+      internalID: 7250364890419986382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 151
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdacb3d2305b08c80800000000000000
+      internalID: -8322453086132253985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 151
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0ae1bb6d95cbd30800000000000000
+      internalID: 4448529310732427510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 151
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebc3c88cb7e5e850800000000000000
+      internalID: 6405780841938799593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 151
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f1b69fbb750ef60800000000000000
+      internalID: 8061539797848235822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 151
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbb59ac5a23b2b80800000000000000
+      internalID: -8418579390789207047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 151
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11a11739cdd61a90800000000000000
+      internalID: -7343438286098947814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 151
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6c45b98f710a010800000000000000
+      internalID: 1197983857405904579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 151
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71a0781684e39630800000000000000
+      internalID: 3932738164211360124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 151
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf48e268731003f0800000000000000
+      internalID: -936727314716667964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2977c3ad7eea8820800000000000000
+      internalID: 2921409531689269547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1c9b63c2ab39950800000000000000
+      internalID: 6454707390011523571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b36542b3a44b66a0800000000000000
+      internalID: -6454990171044224078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b445d1b1a2d5f9770800000000000000
+      internalID: 8619710647235335243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fb3535b2e307440800000000000000
+      internalID: 4931509947773206399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3708964e1b00b80800000000000000
+      internalID: -8430542907856882778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62436a574c781e3e0800000000000000
+      internalID: -2026189079482846170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b6abf5684590970800000000000000
+      internalID: 8721595089488079737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8426a923f825476f0800000000000000
+      internalID: -687834068098063800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c1a53f269cf2c60800000000000000
+      internalID: 7795670906828364851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004f37262d7639520800000000000000
+      internalID: 2707621954272359424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 109
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea894bea5bd663400800000000000000
+      internalID: 303550651981666478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 109
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8413406ef174fbe70800000000000000
+      internalID: 9133096771659247944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 109
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d31e5fefd90f450800000000000000
+      internalID: 6120565611968937269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 109
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb50c96200358cc10800000000000000
+      internalID: 2073998888516978111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 109
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f39798d7c1c7af0800000000000000
+      internalID: -397411341612531934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 109
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97c06275b346fa40800000000000000
+      internalID: 5401579249664575386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 109
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f039d062bf7f46ba0800000000000000
+      internalID: -6096475337505533169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 109
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c3d1fec6f3d5360800000000000000
+      internalID: 7159948719689645126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 109
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f48a38e7298bf30800000000000000
+      internalID: 4591580892176600878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 109
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d6efcfa0166c2d0800000000000000
+      internalID: -3258810580533875316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 88
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ed8dfedafd0ce50800000000000000
+      internalID: 6827702973239975527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 88
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bdcde9668e41530800000000000000
+      internalID: 3824937510993976157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 88
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04127281314312c0800000000000000
+      internalID: -4462151124896312310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916b1085a87133c30800000000000000
+      internalID: 4337836749037352473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 88
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c048fa5c7485f310800000000000000
+      internalID: 1438201325651771590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 88
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13e57c17130b74b0800000000000000
+      internalID: -5441752326950493412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 88
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da608420d6d796c0800000000000000
+      internalID: -4136601543262573863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 88
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89074a80a2723d8e0800000000000000
+      internalID: -1669947975337217896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 88
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc86620bd3a3ba80800000000000000
+      internalID: -8452231914610848586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 88
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abf53ff84e5ed3c0800000000000000
+      internalID: -4332922123871454299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Endless Dungeon Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 88
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71bfde36186fc0c0800000000000000
+      internalID: -4553306253494865539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
