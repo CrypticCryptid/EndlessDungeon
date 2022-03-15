@@ -1,10 +1,18 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
     public float moveSpeed = 5f;
+
+    public int health;
+    public int numOfHearts;
+
+    public Image[] hearts;
+    public Sprite fullHeart;
+    public Sprite emptyHeart;
 
     public Rigidbody2D rb;
     public Animator animator;
@@ -16,8 +24,6 @@ public class PlayerController : MonoBehaviour
     public float attackRange;
     public LayerMask whatIsEnemies;
     public int damage;
-    
-    private bool attacking = false;
 
     Vector2 movement;
 
@@ -36,7 +42,6 @@ public class PlayerController : MonoBehaviour
         {
             if (Input.GetKey(KeyCode.Space))
             {
-                attacking = true;
                 Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(attackPos.position, attackRange, whatIsEnemies);
                 for (int i = 0; i < enemiesToDamage.Length; i++)
                 {
@@ -44,25 +49,43 @@ public class PlayerController : MonoBehaviour
                 }
 
                 timeBtwAttack = startTimeBtwAttack;
-                attacking = false;
             }
         }
         else
         {
             timeBtwAttack -= Time.deltaTime;
         }
+
+        if (health > numOfHearts) 
+        {
+            health = numOfHearts;
+        }
+        
+        for (int i = 0; i < hearts.Length; i++)
+        {
+            if (i < health)
+            {
+                hearts[i].sprite = fullHeart;
+            }
+            else 
+            {
+                hearts[i].sprite = emptyHeart;
+            }
+            
+            if (i < numOfHearts)
+            {
+                hearts[i].enabled = true;
+            }
+            else 
+            { 
+                hearts[i].enabled = false;
+            }
+        }
     }
 
     void FixedUpdate()
     {
-        if (attacking == false)
-        {
-            rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
-        }
-        else 
-        {
-            moveSpeed = 0;
-        }
+        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
     }
 
     void OnDrawGizmosSelected()
