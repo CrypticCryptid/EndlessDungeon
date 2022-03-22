@@ -27,6 +27,9 @@ public class PlayerController : MonoBehaviour
 
     Vector2 movement;
 
+    float dirFacingX;
+    float dirFacingY;
+
     // Update is called once per frame
     void Update()
     {
@@ -86,6 +89,45 @@ public class PlayerController : MonoBehaviour
     void FixedUpdate()
     {
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+
+        //TODO: Need to update attackPos so that it matches with dirFacing
+
+        if (movement.x > 0.01) {
+            //Moving Right
+            dirFacingX = 1;
+            dirFacingY = 0;
+
+            
+        }
+        else if (movement.x < -0.01) 
+        {
+            //Moving Left
+            dirFacingX = -1;
+            dirFacingY = 0;
+
+            
+        }
+        else if (movement.y > 0.01)
+        {
+            //Moving Up
+            dirFacingX = 0;
+            dirFacingY = 1;
+
+            
+        }
+        else if (movement.y < -0.01)
+        {
+            //Moving Down
+            dirFacingX = 0;
+            dirFacingY = -1;
+
+            
+        }
+        
+        animator.SetFloat("DirFacingX", dirFacingX);
+        animator.SetFloat("DirFacingY", dirFacingY);
+
+        Debug.Log("Direction: " + dirFacingX + ", " + dirFacingY);
     }
 
     void OnDrawGizmosSelected()
